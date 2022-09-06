@@ -12,3 +12,7 @@ This is a portfolio project has been created using html and css only. And have t
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/html.svg"/>
 <img width="60px" height="60px" src="https://github.com/im-niraj/im-niraj/blob/master/css.svg"/>
   </div>
+
+
+## Deployed Link
+<a href="https://portfolio-project-niraj.netlify.app/">Portfolio Link</a>
